@@ -30,6 +30,7 @@ We have confirmed this bug is reproducible on at least the following SKUs:
 - `AMD Ryzen 7 PRO 4750GE with Radeon Graphics`
 - `AMD Ryzen 7 5700U`
 - `AMD EPYC 7B12`
+- `AMD EPYC 7402P 24-Core`
 
 In general, we believe all Zen 2 processors are affected, including "Rome"
 server-class processors at the latest microcode patchlevel at the time of
